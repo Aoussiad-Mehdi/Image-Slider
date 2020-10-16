@@ -1,3 +1,3 @@
 # Image-Slider
- - Simple Image Slider with vanilla Javascript.
+ - Simple Image Slider With vanilla Javascript.
 
